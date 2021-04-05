@@ -48,7 +48,6 @@ const users = [{
 3. Pega todos os masculinos
 4. Pega todos os que moram no estado de São Paulo
 
----
 
 ## Map
 
@@ -57,7 +56,6 @@ const users = [{
 3. Traz um array de objeto com apenas o nome e o gênero
 4. Traz ums array com o primeiro nome de todos
 
----
 
 ## Reduce
 
@@ -66,7 +64,6 @@ const users = [{
 3. Pega o número total de caracteres no nome de todos os usuários
 4. Pega o número de caracteres pelo gênero
 
----
 
 ## Sort
 
@@ -83,7 +80,6 @@ const users = [{
 3. Todos os usuários tem menos de 90 anos?
 4. todos os usuários são masculinos?
 
----
 
 ## Some
 
