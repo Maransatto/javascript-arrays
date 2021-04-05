@@ -1,0 +1,11 @@
+{
+  "name": "javascript-array",
+  "version": "1.0.0",
+  "description": "Praticando métodos de arrays em javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Silva Maransatto",
+  "license": "ISC"
+}
