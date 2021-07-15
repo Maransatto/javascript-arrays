@@ -62,7 +62,7 @@ const users = [{
 1. Pega a soma do peso de todos
 2. Pega a soma de idade de todos
 3. Pega o número total de caracteres no nome de todos os usuários
-4. Pega o número de caracteres pelo gênero
+4. Pega o número total de usuários pelo gênero
 
 
 ## Sort
